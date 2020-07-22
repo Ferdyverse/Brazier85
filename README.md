@@ -1,4 +1,4 @@
-## Hello World! <img src="./gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://github.com/Brazier85/Brazier85/raw/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/oderauchnet">
   <img align="left" alt="Brazier85's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,7 +21,7 @@ I'm working as an administrator for windows and linux systems in germany. In my 
 
 [![website](https://img.shields.io/badge/PersonlWebsite-oderauch.net-2648ff?style=flat-square&logo=google-chrome)](https://oderauch.net/)
 
-<img align="right" height="250" width="375" alt="GIF" src="./gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/Brazier85/Brazier85/raw/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
