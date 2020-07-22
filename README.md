@@ -3,51 +3,36 @@
 <a href="https://twitter.com/oderauchnet">
   <img align="left" alt="Brazier85's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/iampavangandhi">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ferdinand-berger-19964b9a">
+  <img align="left" alt="Brazier85's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampavangandhi">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/brazier85">
+  <img align="left" alt="Brazier85's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/iampavangandhi">
-  <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://t.me/brazier85">
+  <img align="left" alt="Brazier85's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br />
 
-### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a isystem administrator from germany.
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-iampavangandhi.github.io-2648ff?style=flat-square&logo=google-chrome)](https://iampavangandhi.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-oderauch.net-2648ff?style=flat-square&logo=google-chrome)](https://oderauch.net/)
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="./gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
-- 💬 Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me: pavangandhi100@gmail.com
-- 📝 [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf)
+- 🛠 I’m currently working with Node.js, Python, Anisble <br /> GMYSQL, Mongodb, Javascript, etc 💻.
+- 💬 If you have any questions, feel free to send a email
+- 📫 How to reach me: brazier@oderauch.net
 
 ### Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -55,7 +40,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=brazier85&show_icons=true&hide_border=true)
 
 #
 
