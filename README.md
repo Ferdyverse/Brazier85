@@ -17,15 +17,15 @@
 
 ### Glad to see you here! 🤩
 
-I'm a isystem administrator from germany.
+I'm working as an administrator for windows and linux systems in germany. In my freetime I'm learning to do some pentesting.
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-oderauch.net-2648ff?style=flat-square&logo=google-chrome)](https://oderauch.net/)
+[![website](https://img.shields.io/badge/PersonlWebsite-oderauch.net-2648ff?style=flat-square&logo=google-chrome)](https://oderauch.net/)
 
 <img align="right" height="250" width="375" alt="GIF" src="./gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Python, Anisble <br /> GMYSQL, Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working with Node.js, Python, Ansible <br /> MYSQL, Mongodb, Javascript, etc 💻.
 - 💬 If you have any questions, feel free to send a email
 - 📫 How to reach me: brazier@oderauch.net
 
@@ -39,6 +39,10 @@ I'm a isystem administrator from germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=brazier85&show_icons=true&hide_border=true)
 
