@@ -40,7 +40,7 @@ I'm working as an administrator for windows and linux systems in Germany. In my 
 <code><img height="60" alt="Linux" title="Linux Administration" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="60" alt="MongoDb" title="MongoDb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="60" alt="MYSQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="60" alt="NiFi" title="NiFi" src="https://nifi.apache.org/assets/images/nifi-drop-white.svg"></code>
+<code><img height="60" alt="NiFi" title="NiFi" src="https://streamsets.com/wp-content/uploads/2020/01/nifi.png"></code>
 <code><img height="60" alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="60" alt="Powershell" title="Powershell" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"></code>
