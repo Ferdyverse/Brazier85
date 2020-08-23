@@ -27,4 +27,5 @@ I'm working as an administrator for windows and linux systems in germany. In my 
 
 ### Show some ❤️ by starring some of the repositories!
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L023BZO)
 </div>
