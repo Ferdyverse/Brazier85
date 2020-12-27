@@ -5,7 +5,7 @@
 
 I'm working as an administrator for windows and linux systems in germany. In my freetime I'm learning to do some pentesting.
 
-[![website](https://img.shields.io/badge/PersonalWebsite-oderauch.net-2648ff?style=flat&logo=google-chrome)](https://oderauch.net/)
+[![website](https://img.shields.io/badge/PersonalWebsite-brazier85.de-2648ff?style=flat&logo=google-chrome)](https://brazier85.de/)
 
 ### Languages and Tools:
 
@@ -17,7 +17,7 @@ I'm working as an administrator for windows and linux systems in germany. In my 
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/Brazier85/Brazier85/raw/master/gifs/coder.gif" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|✉️ *brazier85@oderauch.net \| ferdy2003@gmail.com* |
+|✉️ *brazier85@brazier85.de \| ferdy@brazier85.de* |
 |  <a href="https://twitter.com/oderauchnet"><img align="left" alt="Brazier85's Twitter" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ferdinand-berger-19964b9a"><img align="left" alt="Brazier85's Linkdein" width="32px" height="32px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp; &nbsp; <a href="https://github.com/brazier85"><img align="left" alt="Brazier85's Github" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> &nbsp; &nbsp; <a href="https://t.me/brazier85"><img align="left" alt="Brazier85's Telegram" width="32px" height="32px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> &nbsp; &nbsp;  |
 
 
