@@ -15,7 +15,8 @@ I'm working as an administrator for linux systems in germany.
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/Ferdyverse/Ferdyverse/raw/master/gifs/coder.gif" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|✉️ *ferdy@ferdyverse.com <br /> ✉️ ferdy@berger-em.de* |
+| - ✉️ *ferdy@ferdyverse.com
+ - ✉️ ferdy@berger-em.de* |
 |  <a href="https://www.linkedin.com/in/ferdinand-berger-19964b9a"><img align="left" alt="Brazier85's Linkdein" width="32px" height="32px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp; &nbsp; <a href="https://github.com/ferdyverse"><img align="left" alt="My Github" width="32px" height="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> &nbsp; &nbsp; <a href="https://t.me/brazier85"><img align="left" alt="My Telegram" width="32px" height="32px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> &nbsp; &nbsp;  |
 
 
